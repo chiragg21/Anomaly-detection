@@ -20,8 +20,7 @@ Objective and procedure:
 Conclusion:
 -- We found seven anomalies in 215 days.
 -- Anomalies occur either on the day of the festival or a natural calamity.
--- We observed that the time slots with higher passenger frequency occur on weekdays between 8 am to 3 pm and 6 pm to 11 pm, and on   
-   weekends between 10 am to 4 pm and 6 pm to 1 am.
+-- We observed that the time slots with higher passenger frequency occur on weekdays between 8 am to 3 pm and 6 pm to 11 pm, and on weekends between 10 am to 4 pm and 6 pm to 1 am.
 -- It is also observed that weekdays have more working hours during the day, while the weekends have more working hours during the night.
 
 
